@@ -10,31 +10,31 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51955095498', 'Richetti', true],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['51933348947', 'Richetti2', true],
-  ['56954390663', 'GeriPium', true],
-  ['51965060421', '👑ARYANBOT👑', true],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['56945086055', '@ceogeripium.dzn', false],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'],
-  ['56945086055'], 
-  ['56945086055'],  
-  ['56945086055'], 
-  ['56945086055']
+  ['100000783305388', 'Richetti', true],
+  ['100000783305388', '@ceogeripium.dzn', true],
+  ['100000783305388', 'Richetti2', true],
+  ['100000783305388', 'GeriPium', true],
+  ['100000783305388', '👑ARYANBOT👑', true],
+  ['100000783305388', '@ceogeripium.dzn', true],
+  ['100000783305388', '@ceogeripium.dzn', true],
+  ['100000783305388', '@ceogeripium.dzn', false],
+  ['100000783305388', '@ceogeripium.dzn', true],
+  ['100000783305388', '@ceogeripium.dzn', true],
+  ['100000783305388'],
+  ['100000783305388'],
+  ['100000783305388'],
+  ['100000783305388'],
+  ['100000783305388'],
+  ['100000783305388'],
+  ['100000783305388'],
+  ['100000783305388'], 
+  ['100000783305388'],  
+  ['100000783305388'], 
+  ['100000783305388']
 ];
 
-global.suittag = ['56945086055'];
-global.prems = ['56945086055'];
+global.suittag = ['100000783305388'];
+global.prems = ['100000783305388'];
 
 global.packname = '👑ARYANBOT👑';
 global.author = '👑ARYANBOT👑';
@@ -70,7 +70,7 @@ global.mysticbot = 'https://www.instagram.com/ff_aryan2';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.nomorown = '56945086055';
+global.nomorown = '100000783305388';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
